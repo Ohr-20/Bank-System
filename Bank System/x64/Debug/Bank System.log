@@ -1,0 +1,20 @@
+﻿  Bank System.cpp
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.h(76,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+  Bank.cpp
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.h(76,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.cpp(122,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.cpp(142,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.cpp(402,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.cpp(429,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.cpp(440,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.cpp(459,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.cpp(552,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.cpp(587,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.cpp(640,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Igris\Desktop\Stuff\C++\Bank System\Bank.cpp(759,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Bank System.vcxproj -> C:\Users\Igris\Desktop\Stuff\C++\Bank System\x64\Debug\Bank System.exe
